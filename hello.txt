@@ -2,4 +2,5 @@ hello git! hello atguigu!333
 hello git! hello hot-fix test
 by zleszm
 every day is happy day!!!
+可能是因为我把zleszm这个用户的账号添加到了atyueyangchengzi的git-shTest的这个仓库，成为了可以修改这个仓库里的资料的成员之一，所以才出现了merge pull request 这个选项
 
